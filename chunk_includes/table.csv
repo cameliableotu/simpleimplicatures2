@@ -1,0 +1,59 @@
+﻿Description,Testimage,Item,Stage,Truth,Inform,Certain
+It is a cow.,bunnyshadow.png,bunny,0,F,,
+It is a bunny.,bunnyshadow.png,bunny,0,T,I,
+It is possible that it is a dog.,dogshadow.jpg,dog,1,T,U,possible
+It is certain that it is a dog.,dogshadow.jpg,dog,1,T,I,certain
+It is possible that it is a cat.,dogshadow.jpg,dog,1,F,,possible
+It is certain that it is a cat.,dogshadow.jpg,dog,1,F,,certain
+It is possible that it is a frog.,frogshadow.jpg,frog,1,T,U,possible
+It is certain that it is a frog.,frogshadow.jpg,frog,1,T,I,certain
+It is possible that it is a dog.,frogshadow.jpg,frog,1,F,,possible
+It is certain that it is a dog.,frogshadow.jpg,frog,1,F,,certain
+It is possible that it is a cat.,catshadow.jpg,cat,1,T,U,possible
+It is certain that it is a cat.,catshadow.jpg,cat,1,T,I,certain
+It is possible that it is a dog.,catshadow.jpg,cat,1,F,,possible
+It is certain that it is a dog.,catshadow.jpg,cat,1,F,,certain
+It is possible that it is a cow.,cowshadow.jpg,cow,1,T,U,possible
+It is certain that it is a cow.,cowshadow.jpg,cow,1,T,I,certain
+It is possible that it is a cat.,cowshadow.jpg,cow,1,F,,possible
+It is certain that it is a cat.,cowshadow.jpg,cow,1,F,,certain
+It is possible that it is the red dog.,dogshadow.jpg,dog,2,T,I,possible
+It is possible that it is the blue dog.,dogshadow.jpg,dog,2,T,I,possible
+It is certain that it is the red dog.,dogshadow.jpg,dog,2,F,,certain
+It is certain that it is the blue dog.,dogshadow.jpg,dog,2,F,,certain
+It is possible that it is the yellow dog.,dogshadow.jpg,dog,2,F,,possible
+It is certain that it is the yellow dog.,dogshadow.jpg,dog,2,F,,certain
+It is possible that it is the violet frog.,frogshadow.jpg,frog,2,T,I,possible
+It is possible that it is the red frog.,frogshadow.jpg,frog,2,T,I,possible
+It is certain that it is the violet frog.,frogshadow.jpg,frog,2,F,,certain
+It is certain that it is the red frog.,frogshadow.jpg,frog,2,F,,certain
+It is possible that it is the blue frog.,frogshadow.jpg,frog,2,F,,possible
+It is certain that it is the blue frog.,frogshadow.jpg,frog,2,F,,certain
+It is possible that it is the blue cat.,catshadow.jpg,cat,2,T,I,possible
+It is possible that it is the pink cat.,catshadow.jpg,cat,2,T,I,possible
+It is certain that  it is the blue cat.,catshadow.jpg,cat,2,F,,certain
+It is certain that it is the pink cat.,catshadow.jpg,cat,2,F,,certain
+It is possible that it is the green cat.,catshadow.jpg,cat,2,F,,possible
+It is certain that it is the green cat.,catshadow.jpg,cat,2,F,,certain
+It is possible that it is the green cow.,cowshadow.jpg,cow,2,T,I,possible
+It is possible that it is the yellow cow.,cowshadow.jpg,cow,2,T,I,possible
+It is certain that it is the green cow.,cowshadow.jpg,cow,2,F,,certain
+It is certain that it is the yellow cow.,cowshadow.jpg,cow,2,F,,certain
+It is possible that it is the orange cow.,cowshadow.jpg,cow,2,F,,possible
+It is certain that it is the orange  cow.,cowshadow.jpg,cow,2,F,,certain
+It is possible that it is the blue dog.,dogshadow.jpg,dog,3,T,U,possible
+It is certain that it is the blue dog.,dogshadow.jpg,dog,3,T,I,certain
+It is possible that it is the blue cat.,dogshadow.jpg,dog,3,F,,possible
+It is certain that it is the blue cat. ,dogshadow.jpg,dog,3,F,,certain
+It is possible that it is the red frog.,frogshadow.jpg,frog,3,T,U,possible
+It is certain that it is the red frog.,frogshadow.jpg,frog,3,T,I,certain
+It is possible that it is the red cat.,frogshadow.jpg,frog,3,F,,possible
+It is certain that it is the red cat. ,frogshadow.jpg,frog,3,F,,certain
+It is possible that it is the pink cat.,catshadow.jpg,cat,3,T,U,possible
+It is certain that it is the pink cat.,catshadow.jpg,cat,3,T,I,certain
+It is possible that it is the pink bunny.,catshadow.jpg,cat,3,F,,possible
+It is certain that it is the pink bunny. ,catshadow.jpg,cat,3,F,,certain
+It is possible that it is the green cow. ,cowshadow.jpg,cow,3,T,U,possible
+It is certain that it is the green cow. ,cowshadow.jpg,cow,3,T,I,certain
+It is possible that it is the green cat. ,cowshadow.jpg,cow,3,F,,possible
+It is certain that it is the green cat.,cowshadow.jpg,cow,3,F,,certain
